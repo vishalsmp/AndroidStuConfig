@@ -32,4 +32,13 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="kdoc" value=" /**&#10; * $Statement$&#10; */" description="add Kdoc implementation" toReformat="true" toShortenFQNames="true">
+    <variable name="Statement" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>
