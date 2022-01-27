@@ -1,0 +1,29 @@
+<keymap version="1" name="Rocky" parent="$default">
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="Github.PullRequest.Diff.Comment.Create" />
+  <action id="GotoTest" />
+  <action id="IntroduceTypeAlias" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="ResourceExplorer.show" />
+  <action id="ServiceView.ShowServices" />
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>
