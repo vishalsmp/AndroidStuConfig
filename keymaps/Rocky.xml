@@ -1,6 +1,13 @@
 <keymap version="1" name="Rocky" parent="$default">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="shift delete" />
   </action>
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileStructurePopup">
