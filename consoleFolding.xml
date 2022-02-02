@@ -2,10 +2,12 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="Accessing hidden field" />
         <option value="Accessing hidden field Landroid/app/LoadedApk" />
         <option value="Accessing hidden method" />
         <option value="Accessing hidden method Landroid/app/LoadedApk" />
-        <option value="Accessing hidden field" />
+        <option value="Choreographer" />
+        <option value="studio.deploy" />
       </list>
     </option>
   </component>

@@ -1,5 +1,5 @@
 <templateSet group="Rocky">
-  <template name="aloge" value="AppLog.loge(false, &quot;$FileName$&quot;, &quot;$MethodName$&quot;, e, new Exception());" description="Error log with Applog#loge" toReformat="true" toShortenFQNames="true">
+  <template name="aloge" value="AppLog.INSTANCE.loge(false, &quot;$FileName$&quot;, &quot;$MethodName$&quot;, e, new Exception());" description="Error log with Applog#loge" toReformat="true" toShortenFQNames="true">
     <variable name="FileName" expression="fileName()" defaultValue="" alwaysStopAt="false" />
     <variable name="MethodName" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <context>
@@ -15,7 +15,7 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="alogsk" value="AppLog.loge(true, &quot;$ClassName$&quot;, &quot;$MethodName$&quot;, Exception(), $Statement$)" description="Object log with Applog#loge" toReformat="true" toShortenFQNames="true">
+  <template name="alogsk" value="AppLog.logs(true, &quot;$ClassName$&quot;, &quot;$MethodName$&quot;, $Statement$, Exception())" description="Object log with Applog#logs" toReformat="true" toShortenFQNames="true">
     <variable name="ClassName" expression="fileName()" defaultValue="" alwaysStopAt="false" />
     <variable name="MethodName" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="false" />
     <variable name="Statement" expression="" defaultValue="" alwaysStopAt="true" />
@@ -23,7 +23,7 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="alogs" value="AppLog.loge(true, &quot;$ClassName$&quot;, &quot;$MethodName$&quot;, new Exception(), $Statement$);" description="Object log with Applog#loge" toReformat="true" toShortenFQNames="true">
+  <template name="alogs" value="AppLog.INSTANCE.logs(true, &quot;$ClassName$&quot;, &quot;$MethodName$&quot;, $Statement$, new Exception());" description="Object log with Applog#logs" toReformat="true" toShortenFQNames="true">
     <variable name="ClassName" expression="fileName()" defaultValue="" alwaysStopAt="false" />
     <variable name="MethodName" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="Statement" expression="" defaultValue="" alwaysStopAt="true" />
@@ -39,6 +39,22 @@
       <option name="KOTLIN_EXPRESSION" value="true" />
       <option name="KOTLIN_STATEMENT" value="true" />
       <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="alogt" value="AppLog.INSTANCE.logt(false, &quot;$FileName$&quot;, &quot;$MethodName$&quot;, throwable, new Exception());" description="Throwable log with Applog#logt" toReformat="true" toShortenFQNames="true">
+    <variable name="FileName" expression="fileName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="MethodName" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="alogtk" value="AppLog.logt(false, &quot;$FileName$&quot;, &quot;$MethodName$&quot;, throwable, Exception())" description="Throwable log with Applog#logt" toReformat="true" toShortenFQNames="true">
+    <variable name="FileName" expression="fileName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="MethodName" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
