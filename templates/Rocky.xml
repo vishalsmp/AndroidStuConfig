@@ -57,4 +57,12 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="alogesk" value="val e = Exception($Statement$)&#10;AppLog.loge(false, &quot;$ClassName$&quot;, &quot;$MethodName$&quot;, e, e)" description="Error log with Applog#loge for custom exception" toReformat="true" toShortenFQNames="true">
+    <variable name="Statement" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ClassName" expression="fileName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="MethodName" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
