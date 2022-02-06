@@ -5,6 +5,9 @@
   <component name="CodeInsightSettings">
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="EditorSettings">
+    <option name="ENABLE_RENDERED_DOC" value="true" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
     <option name="collapseMultilineComments" value="true" />
