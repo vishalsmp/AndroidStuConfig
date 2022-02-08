@@ -9,6 +9,7 @@
         <option value="Choreographer" />
         <option value="studio.deploy" />
         <option value="StudioTransport" />
+        <option value="FA" />
       </list>
     </option>
   </component>
