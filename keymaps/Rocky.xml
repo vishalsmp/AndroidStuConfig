@@ -6,7 +6,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="shift delete" />
   </action>
   <action id="ExternalSystem.ProjectRefreshAction" />
@@ -15,7 +14,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="Github.PullRequest.Diff.Comment.Create" />
-  <action id="GotoTest" />
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="IntroduceTypeAlias" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
