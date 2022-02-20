@@ -65,4 +65,10 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="snack" value="Snackbar.make(binding.root, $Statement$, Snackbar.LENGTH_LONG).show()" description="Creates a normal Snackbar call with binding.root" toReformat="false" toShortenFQNames="true">
+    <variable name="Statement" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
