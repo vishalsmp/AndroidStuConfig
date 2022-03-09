@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Misfit Challenge'" />
-    <option name="defaultScopeName" value="Project 'Misfit Challenge'" />
-    <option name="SEARCH_SCOPE" value="Project 'Misfit Challenge'" />
+    <option name="customScope" value="Project 'MVVM-Architecture-Android-Beginners'" />
+    <option name="defaultScopeName" value="Project 'MVVM-Architecture-Android-Beginners'" />
+    <option name="SEARCH_SCOPE" value="Project 'MVVM-Architecture-Android-Beginners'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
