@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level: ERROR " />
         <option value="package:mine Entry" />
         <option value="package:mine " />
         <option value="package:mine EntryActivity" />
