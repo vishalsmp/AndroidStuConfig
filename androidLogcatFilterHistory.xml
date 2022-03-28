@@ -7,6 +7,9 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:AppLog tag:OkHttpClient" />
+        <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:AppLog tag:OK" />
+        <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:AppLog " />
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt " />
         <option value="-line~: Tuya -line~:wakelock -line~:paho_mqtt" />
         <option value="-line~: Tuya -line~:wakelock" />
@@ -24,9 +27,6 @@
         <option value="package:mine -line~: Tuya" />
         <option value="package:mine" />
         <option value="package:mine -line~: GwBroadcastMonitorService,GwBroadcastMonitorModel" />
-        <option value="package:mine -line~: GwBroadcastMonitorService" />
-        <option value="package:mine " />
-        <option value="package:mine level:ERROR " />
       </list>
     </option>
   </component>
