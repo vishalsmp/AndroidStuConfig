@@ -7,12 +7,12 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt level:ERROR " />
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:okhttp.OkHttpClient tag:AppLog " />
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:okhttp.OkHttpClient  tag:AppLog " />
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:OkHttpClient tag:AppLog " />
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt" />
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:" />
-        <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt level:ERROR " />
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:AppLog tag:OkHttpClient " />
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:AppLog tag:OkHttpClient DeviceOptionsActivity" />
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:AppLog tag:OkHttpClient" />
