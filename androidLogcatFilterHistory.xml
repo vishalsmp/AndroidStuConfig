@@ -7,6 +7,9 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:Tuya" />
+        <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV " />
+        <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV level:ERROR " />
         <option value="package:mine -line~:paho_mqtt -line~:Tuya -line~:SoLoader -line~:MMKV" />
         <option value="package:mine -line~:paho_mqtt -line~:Tuya -line~:SoLoader" />
         <option value="package:mine -line~:paho_mqtt -line~:Tuya" />
@@ -24,9 +27,6 @@
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:AppLog tag:OkHttpClient " />
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:AppLog tag:OkHttpClient DeviceOptionsActivity" />
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:AppLog tag:OkHttpClient" />
-        <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:AppLog tag:OK" />
-        <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:AppLog " />
-        <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt " />
       </list>
     </option>
   </component>
