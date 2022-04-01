@@ -7,6 +7,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="level:ERROR line~:atlantic package:mine " />
         <option value="level:ERROR line~:atlantic" />
         <option value="level:ERROR " />
         <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:Tuya level:ERROR " />
@@ -26,7 +27,6 @@
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:okhttp.OkHttpClient tag:AppLog " />
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:okhttp.OkHttpClient  tag:AppLog " />
         <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt tag:OkHttpClient tag:AppLog " />
-        <option value="package:mine -line~: Tuya -line~:wakelock -line~:paho_mqtt" />
       </list>
     </option>
   </component>
