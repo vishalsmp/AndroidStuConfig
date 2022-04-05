@@ -7,6 +7,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource level:ERROR " />
         <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource level:ERROR " />
         <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource" />
         <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES" />
@@ -26,7 +27,6 @@
         <option value="package:mine -line~:paho_mqtt -line~:Tuya -line~:SoLoader" />
         <option value="package:mine -line~:paho_mqtt -line~:Tuya" />
         <option value="package:mine -line~:paho_mqtt" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
