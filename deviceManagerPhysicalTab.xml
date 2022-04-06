@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.102:5555" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi K20 Pro" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="64e3f5b9" />
           </Key>
         </key>
