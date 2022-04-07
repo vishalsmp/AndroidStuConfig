@@ -8,6 +8,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:ERROR  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel " />
         <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel " />
         <option value="package:mine -line~:Tuya -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel " />
         <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer level:ERROR " />
@@ -27,7 +28,6 @@
         <option value="level:ERROR " />
         <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:Tuya level:ERROR " />
         <option value="package:mine level:ERROR " />
-        <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:Tuya" />
       </list>
     </option>
   </component>
