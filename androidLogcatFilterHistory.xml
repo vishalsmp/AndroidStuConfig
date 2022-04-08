@@ -7,6 +7,10 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ScenePickerFragment" />
+        <option value="package:mine " />
+        <option value="package:mine     -line~:Tuya -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
+        <option value="package:mine level:ERROR    -line~:Tuya -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
         <option value="package:mine   -line~:Tuya -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
         <option value="package:mine -line~: paho_mqtt -line~:SoLoader -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel" />
         <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel level:ERROR " />
@@ -23,10 +27,6 @@
         <option value="package:mine  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource level:ERROR " />
         <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource level:ERROR " />
         <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES" />
-        <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader -line~:MMKV" />
-        <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader" />
-        <option value="package:mine -line~:Tuya  -line~:paho_mqtt" />
-        <option value="package:mine -line~:Tuya " />
       </list>
     </option>
   </component>
