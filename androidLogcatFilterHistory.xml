@@ -2,12 +2,12 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine -line~:Tuya -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
         <option value="package:mine level:ERROR -line~:Tuya -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
       </list>
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -line~:Tuya -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
         <option value="package:mine -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
         <option value="package:mine level:ERROR -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
         <option value="package:mine " />
@@ -27,7 +27,6 @@
         <option value="package:mine level:ERROR  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel " />
         <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel " />
         <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer level:ERROR " />
-        <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer level:ERROR " />
       </list>
     </option>
   </component>
