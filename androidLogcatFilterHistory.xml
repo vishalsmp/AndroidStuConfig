@@ -2,31 +2,31 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine -line~: paho_mqtt -line~:SoLoader -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel" />
+        <option value="package:mine level:ERROR -line~:Tuya -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
       </list>
     </option>
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer level:ERROR " />
-        <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer" />
-        <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource" />
-        <option value="package:mine" />
-        <option value="package:mine  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource level:ERROR " />
-        <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource level:ERROR " />
-        <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES" />
-        <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader -line~:MMKV" />
-        <option value="package:mine -line~:Tuya  -line~:paho_mqtt -line~:SoLoader" />
-        <option value="package:mine -line~:Tuya  -line~:paho_mqtt" />
-        <option value="package:mine -line~:Tuya " />
-        <option value="level:ERROR line~:atlantic package:mine " />
-        <option value="level:ERROR line~:atlantic" />
-        <option value="level:ERROR " />
-        <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:Tuya level:ERROR " />
+        <option value="package:mine level:ERROR -line~:NotificationService -line~:statsd" />
+        <option value="package:mine level:ERROR -line~:NotificationService" />
         <option value="package:mine level:ERROR " />
-        <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:Tuya" />
-        <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV " />
-        <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV level:ERROR " />
-        <option value="package:mine -line~:paho_mqtt -line~:Tuya -line~:SoLoader -line~:MMKV" />
+        <option value="package:mine lr" />
+        <option value="package:mine level:ERROR -line~:Tuya -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor" />
+        <option value="package:mine -line~:Tuya -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
+        <option value="package:mine -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
+        <option value="package:mine level:ERROR -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
+        <option value="package:mine " />
+        <option value="level:ERROR " />
+        <option value="package:mine level:ERROR  -line~:Tuya -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
+        <option value="package:mine -line~:Tuya -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
+        <option value="package:mine lin" />
+        <option value="package:mine ScenePicker" />
+        <option value="package:mine ScenePickerFragment" />
+        <option value="package:mine     -line~:Tuya -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
+        <option value="package:mine level:ERROR    -line~:Tuya -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
+        <option value="package:mine   -line~:Tuya -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
+        <option value="package:mine -line~: paho_mqtt -line~:SoLoader -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel" />
+        <option value="package:mine -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel level:ERROR " />
       </list>
     </option>
   </component>
