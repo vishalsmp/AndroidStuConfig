@@ -27,7 +27,6 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
-    <option name="collapseAnonymousClasses" value="true" />
     <option name="collapseMultilineComments" value="true" />
   </component>
   <component name="JetEditorOptions">
