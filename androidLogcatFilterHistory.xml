@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:ERROR -line~:0x00000000 -line~:libc -line~:SDM -line~:vendor.qt -line~:statsd -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
+    <option name="mostRecentlyUsed" value="package:mine -line~:0x00000000 -line~:libc -line~:SDM -line~:vendor.qt -line~:statsd -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -line~:0x00000000 -line~:libc -line~:SDM -line~:vendor.qt -line~:statsd -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
         <option value="package:mine level:ERROR -line~:0x00000000 -line~:libc -line~:SDM -line~:vendor.qt -line~:statsd -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
         <option value="package:mine level:ERROR  -line~:0x00000000 -line~:libc -line~:SDM -line~:vendor.qt -line~:statsd -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
-        <option value="package:mine -line~:0x00000000 -line~:libc -line~:SDM -line~:vendor.qt -line~:statsd -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
         <option value="package:mine -line~:Tuya -line~:0x00000000 -line~:libc -line~:SDM -line~:vendor.qt -line~:statsd -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
         <option value="package:mine" />
         <option value="package:mine level:ERROR " />
