@@ -13,5 +13,6 @@
     <mask>*.kt</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.xml,*.kt</mask>
   </component>
 </application>
