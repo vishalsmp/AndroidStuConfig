@@ -1,17 +1,52 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="fileExclusions">
+      <list>
+        <option value="**/*Directions.java" />
+        <option value="**/*_Impl.java" />
+        <option value="**/*Args.java" />
+      </list>
+    </option>
     <option name="rulesByKey">
       <map>
-        <entry key="kotlin:S6310">
+        <entry key="kotlin:S1067">
           <value>
-            <Rule active="false" key="kotlin:S6310" />
+            <Rule key="kotlin:S1067" />
+          </value>
+        </entry>
+        <entry key="kotlin:S117">
+          <value>
+            <Rule active="false" key="kotlin:S117" />
+          </value>
+        </entry>
+        <entry key="kotlin:S122">
+          <value>
+            <Rule key="kotlin:S122" />
+          </value>
+        </entry>
+        <entry key="kotlin:S138">
+          <value>
+            <Rule key="kotlin:S138" />
           </value>
         </entry>
       </map>
     </option>
     <option name="secretsNeverBeenAnalysed" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://localhost:9000/" />
+          <option name="name" value="Atlantic Energy" />
+          <option name="login" value="admin" />
+          <password>dff8dfc5dfc9dfc1dfd3dfeadf98df92df9bdf98df9bdf93</password>
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules>
-      <Rule active="false" key="kotlin:S6310" />
+      <Rule key="kotlin:S1067" />
+      <Rule key="kotlin:S122" />
+      <Rule active="false" key="kotlin:S117" />
+      <Rule key="kotlin:S138" />
     </rules>
   </component>
 </application>
