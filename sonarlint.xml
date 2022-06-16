@@ -31,17 +31,6 @@
         </entry>
       </map>
     </option>
-    <option name="secretsNeverBeenAnalysed" value="false" />
-    <option name="sonarQubeServers">
-      <list>
-        <SonarQubeServer>
-          <option name="hostUrl" value="http://localhost:9000/" />
-          <option name="name" value="Atlantic Energy" />
-          <option name="login" value="admin" />
-          <password>dff8dfc5dfc9dfc1dfd3dfeadf98df92df9bdf98df9bdf93</password>
-        </SonarQubeServer>
-      </list>
-    </option>
     <rules>
       <Rule key="kotlin:S1067" />
       <Rule key="kotlin:S122" />
