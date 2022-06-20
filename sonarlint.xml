@@ -31,6 +31,7 @@
         </entry>
       </map>
     </option>
+    <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
       <Rule key="kotlin:S1067" />
       <Rule key="kotlin:S122" />
