@@ -5,11 +5,11 @@
         <option value="package:mine -line~:Tuya -line~:TYCa -line~:TYSDK -line~:panelActionBundle -line~:com.tuya.smart -line~:ImageReader -line~:0x00000000 -line~:libc -line~:SDM -line~:vendor.qt -line~:statsd -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -line~:onFlyCompress" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -line~:onFlyCompress" />
         <option value="package:mine " />
+        <option value="package:mine -line~:onFlyCompress" />
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR" />
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR line~:convertBitmap" />
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR line~:CameraActivity" />
