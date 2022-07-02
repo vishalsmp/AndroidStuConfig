@@ -1,4 +1,4 @@
-<keymap version="1" name="Rocky" parent="$default">
+<keymap version="1" name="Raghav" parent="$default">
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
