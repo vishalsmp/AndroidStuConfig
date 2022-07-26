@@ -35,8 +35,8 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="http://localhost:9000/" />
-          <token>dfd9dfdbdfdadff5dfcbdf9adfcbdfcbdfc8dfcedfcfdfcfdfcbdf99dfcedf9adf9edf9adf99df98df98df9bdfcedf99df93df9bdfcbdf92dfcedfcfdfccdf99dfcbdf9adf9adf9edf9fdf9edf9cdf9ddf9ddfccdfccdf9f</token>
-          <option name="name" value="Atlantic Energy" />
+          <token>dfd9dfdbdfdadff5df9cdfcfdfc8dfc9df9ddfccdf9ddfcedf92df9fdfc9df9adfc8dfc9df92dfcedfcfdfcbdfc8df92df93df99df99df92dfcfdfc8df92df9bdfccdfc9df9ddfcbdf9bdf9adf9cdf9ddf9edfc8dfccdf9a</token>
+          <option name="name" value="Localhost" />
         </SonarQubeServer>
       </list>
     </option>
