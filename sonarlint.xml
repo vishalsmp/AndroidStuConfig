@@ -31,7 +31,15 @@
         </entry>
       </map>
     </option>
-    <option name="secretsNeverBeenAnalysed" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://localhost:9000/" />
+          <token>dfd9dfdbdfdadff5dfcbdf9adfcbdfcbdfc8dfcedfcfdfcfdfcbdf99dfcedf9adf9edf9adf99df98df98df9bdfcedf99df93df9bdfcbdf92dfcedfcfdfccdf99dfcbdf9adf9adf9edf9fdf9edf9cdf9ddf9ddfccdfccdf9f</token>
+          <option name="name" value="Atlantic Energy" />
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules>
       <Rule key="kotlin:S1067" />
       <Rule key="kotlin:S122" />
