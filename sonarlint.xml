@@ -31,6 +31,7 @@
         </entry>
       </map>
     </option>
+    <option name="secretsNeverBeenAnalysed" value="false" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
