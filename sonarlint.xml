@@ -31,7 +31,15 @@
         </entry>
       </map>
     </option>
-    <option name="secretsNeverBeenAnalysed" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://localhost:9000/" />
+          <token>dfd9dfdbdfdadff5df9fdf93dfcedf98dfc9dfc9df93df9fdf92df9adf9ddf92df92df92dfc9df9fdf9fdf92dfcfdf9edfc9dfc9dfc9df9ddf9adf9adf9fdfc8dfc9df99df9ddf9ddfcedf9cdf9ddf9ddf9edfc9df92dfcc</token>
+          <option name="name" value="Localhost" />
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules>
       <Rule key="kotlin:S1067" />
       <Rule key="kotlin:S122" />
