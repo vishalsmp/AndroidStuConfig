@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'IncytePOC'" />
-    <option name="defaultScopeName" value="Project 'IncytePOC'" />
+    <option name="customScope" value="Project 'MoreApps'" />
+    <option name="defaultScopeName" value="Project 'MoreApps'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'IncytePOC'" />
+    <option name="SEARCH_SCOPE" value="Project 'MoreApps'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
