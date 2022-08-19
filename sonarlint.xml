@@ -31,13 +31,13 @@
         </entry>
       </map>
     </option>
-    <option name="secretsNeverBeenAnalysed" value="false" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="http://localhost:9000/" />
-          <token>dfd9dfdbdfdadff5df9cdfccdf99df93dfcbdf99df9ddf9adf9fdfc9df99dfcedf99df9edf9bdf9fdfccdfcedf9ddf9adf99dfc9df93df9fdfc8df99df9fdf92df9cdf99df9bdfc8df93dfc8df9edf9adf9bdf9ddf92df93</token>
-          <option name="name" value="Localhost" />
+          <option name="name" value="LocalHost" />
+          <option name="login" value="admin" />
+          <password>dff8dfc5dfc9dfc1dfd3dfeadf98df92df9bdf98df9bdf93</password>
         </SonarQubeServer>
       </list>
     </option>
