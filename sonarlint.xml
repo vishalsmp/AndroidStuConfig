@@ -42,6 +42,7 @@
         </SonarQubeServer>
       </list>
     </option>
+    <option name="taintVulnerabilitiesTabDisclaimerDismissed" value="true" />
     <rules>
       <Rule key="kotlin:S1067" />
       <Rule key="kotlin:S122" />
