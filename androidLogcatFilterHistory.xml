@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -line~:onFlyCompress level:error " />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine -line~:onFlyCompress level:error " />
         <option value="package:mine -line~:onFlyCompress" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine line~:" />
         <option value="package:mine line~:CameraActivity" />
         <option value="package:mine line~:DeviceDataUtil level:ERROR -line~:Tuya -line~:TYCa -line~:TYSDK -line~:panelActionBundle -line~:com.tuya.smart -line~:ImageReader -line~:0x00000000 -line~:libc -line~:SDM -line~:vendor.qt -line~:statsd -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
-        <option value="package:mine level:ERROR -line~:Tuya -line~:TYCa -line~:TYSDK -line~:panelActionBundle -line~:com.tuya.smart -line~:ImageReader -line~:0x00000000 -line~:libc -line~:SDM -line~:vendor.qt -line~:statsd -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
       </list>
     </option>
   </component>
