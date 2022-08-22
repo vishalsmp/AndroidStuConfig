@@ -5,6 +5,8 @@
         <option value="**/*Directions.java" />
         <option value="**/*_Impl.java" />
         <option value="**/*Args.java" />
+        <option value="**/*Binding.java" />
+        <option value="openCV/**" />
       </list>
     </option>
     <option name="rulesByKey">
@@ -30,6 +32,15 @@
           </value>
         </entry>
       </map>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://localhost:9000/" />
+          <token>dfd9dfdbdfdfdff5df9cdfc8dfcfdf98df93df92dfccdfcfdfc9df9fdf99df9fdf98dfc9df93dfc8df99df9edfcfdf92df99dfcbdfc9df9edf93dfc9df9adfc9df92df99df9ddfc8df9adfc9dfcedfcfdfcbdfccdf9cdfcc</token>
+          <option name="name" value="LocalHost" />
+        </SonarQubeServer>
+      </list>
     </option>
     <rules>
       <Rule key="kotlin:S1067" />
