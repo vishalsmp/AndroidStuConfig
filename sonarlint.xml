@@ -33,7 +33,6 @@
         </entry>
       </map>
     </option>
-    <option name="secretsNeverBeenAnalysed" value="false" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
@@ -43,7 +42,6 @@
         </SonarQubeServer>
       </list>
     </option>
-    <option name="taintVulnerabilitiesTabDisclaimerDismissed" value="true" />
     <rules>
       <Rule key="kotlin:S1067" />
       <Rule key="kotlin:S122" />
