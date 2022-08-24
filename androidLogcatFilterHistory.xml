@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -line~:onFlyCompress level:error message:calculateHistogramSimilarity" />
+    <option name="mostRecentlyUsed" value="package:mine -line~:onFlyCompress level:error" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -line~:onFlyCompress level:error" />
         <option value="package:mine -line~:onFlyCompress level:error message:calculateHistogramSimilarity" />
         <option value="package:mine -line~:onFlyCompress level:error " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR " />
         <option value="package:mine line~:CameraUtil" />
         <option value="package:mine line~:cameraUtil" />
-        <option value="package:mine line~:" />
       </list>
     </option>
   </component>
