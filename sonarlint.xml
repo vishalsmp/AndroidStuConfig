@@ -5,6 +5,8 @@
         <option value="**/*Directions.java" />
         <option value="**/*_Impl.java" />
         <option value="**/*Args.java" />
+        <option value="**/*Binding.java" />
+        <option value="openCV/**" />
       </list>
     </option>
     <option name="rulesByKey">
@@ -31,13 +33,12 @@
         </entry>
       </map>
     </option>
-    <option name="secretsNeverBeenAnalysed" value="false" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="http://localhost:9000/" />
-          <token>dfd9dfdbdfdadff5df9cdfccdf99df93dfcbdf99df9ddf9adf9fdfc9df99dfcedf99df9edf9bdf9fdfccdfcedf9ddf9adf99dfc9df93df9fdfc8df99df9fdf92df9cdf99df9bdfc8df93dfc8df9edf9adf9bdf9ddf92df93</token>
-          <option name="name" value="Localhost" />
+          <token>dfd9dfdbdfdfdff5df9cdfc8dfcfdf98df93df92dfccdfcfdfc9df9fdf99df9fdf98dfc9df93dfc8df99df9edfcfdf92df99dfcbdfc9df9edf93dfc9df9adfc9df92df99df9ddfc8df9adfc9dfcedfcfdfcbdfccdf9cdfcc</token>
+          <option name="name" value="LocalHost" />
         </SonarQubeServer>
       </list>
     </option>

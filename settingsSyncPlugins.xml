@@ -61,6 +61,19 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.godwin.kdocer">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.hiyunhong.gradlekiller">
           <value>
             <PluginData>
@@ -182,6 +195,18 @@
             <PluginData />
           </value>
         </entry>
+        <entry key="org.norbye.tor.kdocformatter">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="org.sonarlint.idea">
           <value>
             <PluginData>
@@ -190,7 +215,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
