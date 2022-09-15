@@ -80,8 +80,8 @@
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="gint" value="companion object {&#10;    fun getIntentObject(&#10;        context: Context,&#10;        bundle: Bundle = Bundle.EMPTY,&#10;    ): Intent = Intent(context, $ClassName$::class.java).apply { putExtras(bundle) }&#10;}" description="write getIntent method for Activity" toReformat="false" toShortenFQNames="true">
-    <variable name="ClassName" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+  <template name="gint" value="companion object {&#10;    fun getIntentObject(&#10;        context: Context,&#10;        bundle: Bundle = Bundle.EMPTY,&#10;    ): Intent = Intent(context, $ClassName$::class.java).apply { putExtras(bundle) }&#10;}" description="write getIntent method for Activity" toReformat="true" toShortenFQNames="true">
+    <variable name="ClassName" expression="kotlinClassName()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
