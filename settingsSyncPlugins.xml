@@ -58,6 +58,7 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -116,6 +117,18 @@
                   <option value="org.jetbrains.kotlin" />
                 </set>
               </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.tabnine.TabNine">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
