@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:ERROR " />
+    <option name="mostRecentlyUsed" value="package:mine -line~:onFlyCompress " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -line~:onFlyCompress " />
         <option value="level:ERROR " />
         <option value="package:mine " />
         <option value="package:mine level:ERROR " />
@@ -22,7 +23,6 @@
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR line~:CameraActivity" />
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR line~:listener" />
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR " />
-        <option value="package:mine line~:CameraUtil" />
       </list>
     </option>
   </component>
