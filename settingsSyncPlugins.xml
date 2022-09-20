@@ -185,6 +185,19 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.weirddev.testme">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="JUnit" />
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="de.ohmesoftware.parcelablegenerator">
           <value>
             <PluginData>
