@@ -21,12 +21,12 @@
   <action id="KDo-cer-menu-add">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
+  <action id="KDo-cer-menu-all-add">
+    <keyboard-shortcut first-keystroke="shift ctrl alt y" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl x" />
-  </action>
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="ResourceExplorer.show" />
   <action id="ServiceView.ShowServices" />
