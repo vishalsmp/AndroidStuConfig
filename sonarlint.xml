@@ -21,6 +21,11 @@
             <Rule active="false" key="kotlin:S117" />
           </value>
         </entry>
+        <entry key="kotlin:S1186">
+          <value>
+            <Rule active="false" key="kotlin:S1186" />
+          </value>
+        </entry>
         <entry key="kotlin:S122">
           <value>
             <Rule key="kotlin:S122" />
@@ -50,6 +55,7 @@
     </option>
     <rules>
       <Rule key="kotlin:S1067" />
+      <Rule active="false" key="kotlin:S1186" />
       <Rule key="kotlin:S122" />
       <Rule active="false" key="kotlin:S117" />
       <Rule key="kotlin:S138" />
