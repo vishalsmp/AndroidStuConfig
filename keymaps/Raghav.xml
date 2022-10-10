@@ -28,6 +28,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="ResourceExplorer.show" />
   <action id="ServiceView.ShowServices" />
   <action id="SonarLint.AnalyzeFiles">
