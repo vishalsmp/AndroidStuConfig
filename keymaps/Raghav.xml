@@ -43,4 +43,10 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="android.deploy.livedit.recompose">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="android.deploy.livedit.trigger">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
 </keymap>
