@@ -38,6 +38,8 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
