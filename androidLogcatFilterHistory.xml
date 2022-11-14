@@ -3,12 +3,12 @@
     <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:mine level:ERROR " />
         <option value="package:mine " />
         <option value="package:mine -line~:onFlyCompress " />
         <option value="level:ERROR " />
-        <option value="package:mine" />
         <option value="package:mine -line~:onFlyCompress level:error" />
         <option value="package:mine -line~:onFlyCompress level:error message:calculateHistogramSimilarity" />
         <option value="package:mine -line~:onFlyCompress level:error " />
