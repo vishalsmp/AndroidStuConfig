@@ -104,4 +104,10 @@
       <option name="DART_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="alogW" value="AppLog.logW(log: $Message$);" description="AppLog.logW implementation" toReformat="true" toShortenFQNames="true">
+    <variable name="Message" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
