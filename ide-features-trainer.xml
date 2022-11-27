@@ -16,7 +16,7 @@
         <entry key="declaration and usages" value="NOT_PASSED" />
         <entry key="duplicate" value="NOT_PASSED" />
         <entry key="extract variable" value="NOT_PASSED" />
-        <entry key="file structure" value="NOT_PASSED" />
+        <entry key="file structure" value="PASSED" />
         <entry key="find in files" value="NOT_PASSED" />
         <entry key="java.debug.workflow" value="NOT_PASSED" />
         <entry key="java.inheritance.hierarchy.lesson" value="NOT_PASSED" />
