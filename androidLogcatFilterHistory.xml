@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine scanP2PDevices" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine scanP2PDevices" />
         <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:mine level:ERROR " />
@@ -22,7 +23,6 @@
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR line~:convertBitmap" />
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR line~:CameraActivity" />
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR line~:listener" />
-        <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR " />
       </list>
     </option>
   </component>
