@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:com.lexmark.mobileone  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.lexmark.mobileone  " />
         <option value="package:mine " />
         <option value="package:mine ==============" />
         <option value="package:mine line~:===========" />
@@ -22,7 +23,6 @@
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh" />
         <option value="package:mine -line~:Tuya -line~:TYCa -line~:TYSDK -line~:panelActionBundle -line~:com.tuya.smart -line~:ImageReader -line~:0x00000000 -line~:libc -line~:SDM -line~:vendor.qt -line~:statsd -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR" />
-        <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR line~:convertBitmap" />
       </list>
     </option>
   </component>
