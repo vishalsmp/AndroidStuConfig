@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.dart" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,7 +14,7 @@
     <mask>*.java</mask>
     <mask>*.xml,*.kt</mask>
     <mask>*.xml</mask>
-    <mask>*.gradle</mask>
     <mask>*.dart</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
